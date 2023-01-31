@@ -4,10 +4,10 @@ This repository contains a portfolio of Projects related to Machine Learning com
 
 *Note: Data used in the projects (accessed under Dataset directory) is for demonstration purposes only.*
 
-###Instructions for Running Jupyter Notebooks Locally
+### Instructions for Running Jupyter Notebooks Locally
 -Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-###Contents
+### Contents
 
 - Machine Learning
     - Banglore Real Estate Price Prediction : A model to predict the value of a given house in the Banglore real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
