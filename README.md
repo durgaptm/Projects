@@ -23,6 +23,7 @@ This repository contains a portfolio of Projects related to Machine Learning com
 - **Data Analysis and Visualization**
     - Exploring the NYC Airbnb Market :  Exploratory Data Analysis of the Airbnb market in New york. The data is ingested and combined from multiple file types, and cleaned to extract accurate information.
     - Word Frequency in Classic Novels :  Web Scraping and Exploratory Analysis of the html form of classic novel - 'The Three Musketeers' from Project Gutenberg website. Uses NLP to find the most frequent words in the novel.
+    - Exploring the Bitcoin Cryptocurrency Market : Exploratory Data Analysis on bitcoin and other cryptocurrency data of the year 2017. The data is cleaned and then visualized to get insights on the cryptocurrency market.
 
 - **SQL Projects**
     - Analyzing the World Population : In this project, the dataset by CIA World Factbook was used to explore how the world population spreads across different countries.
