@@ -21,7 +21,8 @@ This repository contains a portfolio of Projects related to Machine Learning com
     - Potato Disease Detection : A simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture.
     
 - **Data Analysis and Visualization**
-    - Exploring the NYC Airbnb Market :  This project involves data importing and cleaning to analyze the Airbnb market in New york. The data is ingested and combined from multiple file types, and cleaned to extract accurate information.
+    - Exploring the NYC Airbnb Market :  Exploratory Data Analysis of the Airbnb market in New york. The data is ingested and combined from multiple file types, and cleaned to extract accurate information.
+    - Word Frequency in Classic Novels :  Web Scraping and Exploratory Analysis of the html form of classic novel - 'The Three Musketeers' from Project Gutenberg website. Uses NLP to find the most frequent words in the novel.
 
 - **SQL Projects**
     - Analyzing the World Population : In this project, the dataset by CIA World Factbook was used to explore how the world population spreads across different countries.
