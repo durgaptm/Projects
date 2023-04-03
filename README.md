@@ -19,6 +19,7 @@ This repository contains a portfolio of Projects related to Machine Learning com
 
 - **Deep Learning**
     - Potato Disease Detection : A simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture.
+    - Age & Gender Detection : A Deep Learning Training Model that will detect age and gender of a person in an image.
     
 - **Data Analysis and Visualization**
     - Exploring the NYC Airbnb Market :  Exploratory Data Analysis of the Airbnb market in New york. The data is ingested and combined from multiple file types, and cleaned to extract accurate information.
