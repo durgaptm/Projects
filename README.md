@@ -16,6 +16,7 @@ This repository contains a portfolio of Projects related to Machine Learning com
 - **Natural Language Processing**
     - Sentiment Analysis of P2P Platforms : 2-way polarity (positive and negative) classification system for P2P Platforms, using NLTK's sentiment analysis engine.
     - Text Classification : A multilabel classification model to predict the category of different news articles such as Political, Religious etc.
+    - Auto-Correct Feature : A similar feature to that of the smartphone we are using now, but this would be an implementation of Natural Language Processing on a smaller dataset like a book.
 
 - **Deep Learning**
     - Potato Disease Detection : A simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture.
